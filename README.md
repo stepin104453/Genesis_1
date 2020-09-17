@@ -5,3 +5,6 @@ CHECK REPOSITORY
 
 
 ![Unit testing](https://github.com/stepin104453/Genesis_1/workflows/Unit%20testing/badge.svg)
+
+
+![cppcheck-action](https://github.com/stepin104453/Genesis_1/workflows/cppcheck-action/badge.svg)
