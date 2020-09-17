@@ -20,4 +20,4 @@ doc:
 clean:
 	rm -rf $(PROJECT_NAME) documentation/html
 $(BUILD):
-       MKDIR build
+       mkdir build
